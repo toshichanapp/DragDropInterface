@@ -114,7 +114,7 @@ a.btn,a.btn:hover.a.btn:active;
 #dragitemslist + div
 {
     margin-top: 220px;
-    border-top: 5px solid rgb(0, 187, 255);
+    /* border-top: 5px solid rgb(0, 187, 255); */
 }
 #dragitemslistcontainer
 {
@@ -153,8 +153,8 @@ a.btn,a.btn:hover.a.btn:active;
 {
     height: -webkit-calc(100% - 220px);
     height: calc(100% - 220px);
-    height: -moz-calc(100% - 220px);
-    height: -ms-calc(100% - 220px);
-    height: -o-calc(100% - 220px);
+    height: -moz-calc(100% - 170px);
+    height: -ms-calc(100% - 170px);
+    height: -o-calc(100% - 170px);
     width: 100%;
 }
